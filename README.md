@@ -144,6 +144,3 @@ GoogleBooksService → Google Books API
 | Хранение | В памяти (ArrayList) |
 | Зависимости | OkHttp, Gson |
 
----
-
-Этот текст можно сразу вставить в README на GitHub.
